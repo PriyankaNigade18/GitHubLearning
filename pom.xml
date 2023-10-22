@@ -6,6 +6,9 @@
 	<artifactId>SwagLabs</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
+<properties>
+<javaversion>17</javaversion>
+</properties>
 	<dependencies>
 
 		<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
