@@ -8,6 +8,7 @@ public class OverviewPageTest extends BaseClass
   @Test(priority=1)
   public void verifySummary()
   {
+	  System.out.println("Summary updated");
 	  op.getDetailOrderSummary();
   }
   
